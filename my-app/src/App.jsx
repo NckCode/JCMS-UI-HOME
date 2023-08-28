@@ -4,7 +4,6 @@ import './App.css' // You can add styling in a separate CSS file
 const App = () => {
   return (
     <div className="app">
-      {/* this is free totally trial */}
       <Card
         title="React Card Component"
         content="This is a simple card component in React."
